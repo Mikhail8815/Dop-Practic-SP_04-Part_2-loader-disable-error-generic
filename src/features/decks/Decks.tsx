@@ -7,6 +7,7 @@ export const Decks = () => {
       <h1>Decks 🐈</h1>
       <AddNewDeckForm />
       <DecksList />
+      <footer>Helloo</footer>
     </div>
   )
 }
